@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-RID27-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
 data_stream: CE09OSSM-RID27-03-CTDBPC000-telemetered-ctdbp_cdef_dcl_instrument
-end_date: '2021-10-05T20:30:04.834Z'
-last_updated: '2021-10-06T01:46:48.737307'
+end_date: '2021-12-01T20:30:04.600Z'
+last_updated: '2021-12-02T00:55:48.078235Z'
 start_date: '2015-04-09T17:30:25.045Z'
-status: success
+status: pending
